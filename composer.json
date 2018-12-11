@@ -1,5 +1,5 @@
 {
-    "name": "kblais/query-filter",
+    "name": "castion2293/query-filter",
     "description": "Easily create filters for your Eloquent model.",
     "license": "MIT",
     "authors": [
