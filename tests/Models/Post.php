@@ -1,9 +1,9 @@
 <?php
 
-namespace Kblais\QueryFilter\Tests\Models;
+namespace Castion2293\QueryFilter\Tests\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Kblais\QueryFilter\FilterableTrait;
+use Castion2293\QueryFilter\FilterableTrait;
 
 class Post extends Model
 {

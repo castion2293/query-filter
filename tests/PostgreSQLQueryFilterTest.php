@@ -1,6 +1,6 @@
 <?php
 
-namespace Kblais\QueryFilter\Tests;
+namespace Castion2293\QueryFilter\Tests;
 
 class PostgreSQLQueryFilterTest extends QueryFilterTest
 {

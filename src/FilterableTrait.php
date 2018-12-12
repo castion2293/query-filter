@@ -1,6 +1,6 @@
 <?php
 
-namespace Kblais\QueryFilter;
+namespace Castion2293\QueryFilter;
 
 use Illuminate\Database\Eloquent\Builder;
 

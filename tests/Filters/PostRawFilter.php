@@ -1,8 +1,8 @@
 <?php
 
-namespace Kblais\QueryFilter\Tests\Filters;
+namespace Castion2293\QueryFilter\Tests\Filters;
 
-use Kblais\QueryFilter\QueryFilter;
+use Castion2293\QueryFilter\QueryFilter;
 
 class PostRawFilter extends QueryFilter
 {

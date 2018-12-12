@@ -1,6 +1,6 @@
 <?php
 
-namespace Kblais\QueryFilter\Tests;
+namespace Castion2293\QueryFilter\Tests;
 
 use Illuminate\Http\Request;
 use Orchestra\Testbench\TestCase;

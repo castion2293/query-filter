@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Kblais\\QueryFilter\\": "src"
+            "Castion2293\\QueryFilter\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Kblais\\QueryFilter\\Tests\\": "tests"
+            "Castion2293\\QueryFilter\\Tests\\": "tests"
         }
     },
     "minimum-stability": "dev",
